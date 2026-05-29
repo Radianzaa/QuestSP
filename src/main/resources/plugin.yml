@@ -1,0 +1,14 @@
+name: QuestPlugin
+version: 1.0
+main: me.tot.quiz.Main
+api-version: 1.20
+author: Radianza
+description: Quest Plugin beta
+
+
+commands:
+  quiztop:
+    description: leaderboard quiz
+
+  quizreload:
+    description: reload quiz config
